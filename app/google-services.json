@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "87398609072",
+    "firebase_url": "https://call-recorder-48850.firebaseio.com",
+    "project_id": "call-recorder-48850",
+    "storage_bucket": "call-recorder-48850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87398609072:android:2ffa780f0f1580ebb38b75",
+        "android_client_info": {
+          "package_name": "com.dailycall.recoder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87398609072-rrkfoapfbvamli4115mvjcfhhe2qnal7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3xBUWY1JoBmOIaryMnmN3KOe_yVzEY8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87398609072-rrkfoapfbvamli4115mvjcfhhe2qnal7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
